@@ -3,23 +3,23 @@
 This repo contains simple and practical examples demonstrating many of the new features in ECMAScript 6. These are my notes, hopefully they will be useful to you!
 
 The demos:
-[x] Arrows: `simple` and `practical`
-[ ] Classes
-[ ] `const`
-[x] Destructuring: `simple` and `practical`
-[ ] For...of loops (related to Generators)
-[ ] Generators & `for`...`of` loops
-[ ] `let`
-[ ] Map
-[ ] Objects
-[ ] Promise
-[ ] Proxy (not implemented in Babel!)
-[ ] Reflect
-[ ] Set
-[x] Spread: `simple`
-[x] Template Strings: `simple` and `practical`
-[ ] WeakMap
-[ ] WeakSet
+- [x] Arrows: `simple` and `practical`
+- [ ] Classes
+- [ ] `const`
+- [x] Destructuring: `simple` and `practical`
+- [ ] For...of loops (related to Generators)
+- [ ] Generators & `for`...`of` loops
+- [ ] `let`
+- [ ] Map
+- [ ] Objects
+- [ ] Promise
+- [ ] Proxy (not implemented in Babel!)
+- [ ] Reflect
+- [ ] Set
+- [x] Spread: `simple`
+- [x] Template Strings: `simple` and `practical`
+- [ ] WeakMap
+- [ ] WeakSet
 
 ### How To Use
 
