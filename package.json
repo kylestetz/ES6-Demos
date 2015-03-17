@@ -1,0 +1,21 @@
+{
+  "name": "es6-demos",
+  "version": "1.0.0",
+  "description": "Simple, approachable, and runnable examples of new ES6 features.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "gulp-babel": "^4.0.0",
+    "gulp": "^3.8.11",
+    "gulp-watch": "^4.1.1",
+    "request": "^2.53.0",
+    "babelify": "^5.0.4",
+    "browserify": "^9.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Stetz",
+  "license": "MIT"
+}
